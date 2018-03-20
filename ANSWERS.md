@@ -11,7 +11,7 @@ Creates a button that does a patch on the current pokemon. The capture_path caus
 
 
 # Question 3: What would you name your own Pokemon?
-
+nomu
 
 
 # Question 4: What did you pass into the redirect_to? If it is a path, what did that path need? If it is not a path, why is it okay not to have a path here?
