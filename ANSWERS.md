@@ -25,5 +25,5 @@ I passed in a path to `trainers/`. That path needed the specific trainer's ID, w
 I like pokemon very fun project
 
 ## Extra credit: Link your Heroku deployed app
-https://github.com/stnzheng/sp18-proj1
-https://obscure-journey-25916.herokuapp.com/
+1. Github link: https://github.com/stnzheng/sp18-proj1
+2. Heroku link: https://obscure-journey-25916.herokuapp.com/
